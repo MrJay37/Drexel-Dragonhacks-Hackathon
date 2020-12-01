@@ -9,7 +9,7 @@ This repository contains the code for the project demonstrated at Drexel DragonH
 * Machine learning model to distinguish and classify fire activities as human intended usage or accidental
 * Notification service running on a cloud server
 
-![Project Setup](images\hackathon_setup.jpeg)
+![Project Setup](images/hackathon_setup.jpeg)
 
 Following are the parts present in the the setup picture above
 
